@@ -2,6 +2,8 @@
 
 Ecsploitable is a deliberately vulnerable virtual machine designed for security researchers and ethical hackers to practice penetration testing. This preconfigured VM offers a safe environment to explore vulnerabilities and develop exploitation skills.  
 
+A Private Lab Environment for Learning & Practicing EthicalHacking that Match RealWorld Scenerios, In a Safe Environment [using NAT or Host-Only Adaptor]
+
 ## Features  
 - Preconfigured virtual machine for penetration testing.  
 - Simulates real-world vulnerabilities such as SQL Injection, XSS, buffer overflows, and more.  
