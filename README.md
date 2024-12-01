@@ -1,4 +1,4 @@
-![Alt text](Ecsploitable.png)
+![Alt text](ECSPLOITABLE.png)
 
 # Ecsploitable -by Sridhar S
 
