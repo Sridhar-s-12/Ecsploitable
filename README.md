@@ -11,6 +11,8 @@ Ecsploitablewin   - Based on Windows8.1
 
 Ecsploitableubntu - Based on Ubuntu (Lightweight)
 
+[Disclaimer]https://drive.google.com/file/d/1DaX_Rm4t4WAPNj-qZgWHLAv30xu4QQDD/view?usp=sharing
+
 ## Features  
 - Preconfigured virtual machine for penetration testing.  
 - Simulates real-world vulnerabilities such as SQL Injection, XSS, buffer overflows, and more.  
