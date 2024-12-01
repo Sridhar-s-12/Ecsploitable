@@ -36,7 +36,7 @@ Ecsploitableubntu - Based on Ubuntu (Lightweight)
    - Use the credentials provided below to log in.  
 
 ## Default Credentials  
-- Username: ecadmin  
+- Username: Ecadmin  
 - Password: password  
   
 ## Disclaimer  
