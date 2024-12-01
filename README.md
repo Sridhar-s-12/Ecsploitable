@@ -4,6 +4,9 @@ Ecsploitable is a deliberately vulnerable virtual machine designed for security 
 
 A Private Lab Environment for Learning & Practicing EthicalHacking that Match RealWorld Scenerios, In a Safe Environment [using NAT or Host-Only Adaptor]
 
+Ecsploitablewin   - Based on Windows8.1
+Ecsploitableubntu - Based on Ubuntu (Lightweight)
+
 ## Features  
 - Preconfigured virtual machine for penetration testing.  
 - Simulates real-world vulnerabilities such as SQL Injection, XSS, buffer overflows, and more.  
