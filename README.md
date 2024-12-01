@@ -1,4 +1,6 @@
 ![Alt text](ECSPLOITABLE.png)
+<img src="ECSPLOITABLE.png" alt="Description" width="300">
+
 
 # Ecsploitable -by Sridhar S
 
