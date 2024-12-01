@@ -1,3 +1,5 @@
+![Alt text](Ecsploitable.png)
+
 # Ecsploitable -by Sridhar S
 
 Ecsploitable is a deliberately vulnerable virtual machine designed for security researchers and ethical hackers to practice penetration testing. This preconfigured VM offers a safe environment to explore vulnerabilities and develop exploitation skills.  
