@@ -1,7 +1,7 @@
 <img src="ECSPLOITABLE.png" alt="Description" width="300">
 
 
-# Ecsploitable -by Sridhar S
+# Ecsploitable -by Sridhar S   [ Disclaimer ](https://drive.google.com/file/d/1DaX_Rm4t4WAPNj-qZgWHLAv30xu4QQDD/view?usp=sharing)   [ UsageGuidelines ](https://drive.google.com/file/d/1mSjTNZeezXlH2ESt1y6EFD71HKbcgi8c/view?usp=sharing)
 
 Ecsploitable is a deliberately vulnerable virtual machine designed for security researchers and ethical hackers to practice penetration testing. This preconfigured VM offers a safe environment to explore vulnerabilities and develop exploitation skills.  
 
@@ -11,7 +11,7 @@ Ecsploitablewin   - Based on Windows8.1
 
 Ecsploitableubntu - Based on Ubuntu (Lightweight)
 
-[ Disclaimer ](https://drive.google.com/file/d/1DaX_Rm4t4WAPNj-qZgWHLAv30xu4QQDD/view?usp=sharing)
+
 
 ## Features  
 - Preconfigured virtual machine for penetration testing.  
