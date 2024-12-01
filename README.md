@@ -1,4 +1,3 @@
-![Alt text](ECSPLOITABLE.png)<br>
 <img src="ECSPLOITABLE.png" alt="Description" width="300">
 
 
