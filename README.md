@@ -17,11 +17,13 @@ Ecsploitablewin   - Based on Windows8.1
 - Preconfigured virtual machine for penetration testing. [Preconfigured DVWA,OWASP JUICESHOP,WORDPRESS,PhpMyAdmin & More.,]
 - Simulates real-world vulnerabilities such as SQL Injection, XSS, buffer overflows, and more.  
 - Easy to set up—just extract the file and attach it to your virtualization software.  
-- Supports popular tools like Metasploit, Burp Suite, and more.  
+- Supports popular tools like Metasploit, Burp Suite, and more.
+- Dedicated Chrome startuppage with easy access button for DVWA,JUICESHOP,WORDPRESS & More.,
+- Installed wireshark and sample pcap files for Network Analysis  
 
 ## Installation  
 
-1. *Download the Virtual Machine*  
+1. *Click on the Link & Download the Virtual Machine*  
    - [Download Link - Mediafire](https://www.mediafire.com/file/9cbpyndnhyzzl0o/Ecsploitablewin.7z/file)  
 
 2. *Extract the VM*  
