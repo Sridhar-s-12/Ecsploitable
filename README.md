@@ -11,7 +11,7 @@ Ecsploitablewin   - Based on Windows8.1
 
 [ Disclaimer ](https://drive.google.com/file/d/1DaX_Rm4t4WAPNj-qZgWHLAv30xu4QQDD/view?usp=sharing)   &  [ UsageGuidelines ](https://drive.google.com/file/d/1mSjTNZeezXlH2ESt1y6EFD71HKbcgi8c/view?usp=sharing)
 
-## [Project Documentation](https://drive.google.com/file/d/1BdIXxZTYmg0Q8Bo-_bwDBqi_Al2JyyM4/view?usp=sharing)
+## [Project Documentation](https://drive.google.com/file/d/1BdIXxZTYmg0Q8Bo-_bwDBqi_Al2JyyM4/view?usp=sharing) & [Download Link - Mediafire](https://www.mediafire.com/file/9cbpyndnhyzzl0o/Ecsploitablewin.7z/file) 
 
 ## Features  
 - Preconfigured virtual machine for penetration testing. [Preconfigured DVWA,OWASP JUICESHOP,WORDPRESS,PhpMyAdmin & More.,]
