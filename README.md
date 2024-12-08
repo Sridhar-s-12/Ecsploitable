@@ -52,10 +52,10 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 If you found this project useful, please consider donating by:  
 
-*UPI ID:* your-upi-id@upi  
+*UPI ID:* smokysridhar12@okhdfcbank  
 
 Thank you for your support!  
 
 ---
 
-Happy Hacking!
+Happy Exploitation!
