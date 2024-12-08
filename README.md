@@ -13,6 +13,8 @@ Ecsploitableubntu - Based on Ubuntu (Lightweight)
 
 [ Disclaimer ](https://drive.google.com/file/d/1DaX_Rm4t4WAPNj-qZgWHLAv30xu4QQDD/view?usp=sharing)   &  [ UsageGuidelines ](https://drive.google.com/file/d/1mSjTNZeezXlH2ESt1y6EFD71HKbcgi8c/view?usp=sharing)
 
+## [Project Documentation](https://drive.google.com/file/d/1BdIXxZTYmg0Q8Bo-_bwDBqi_Al2JyyM4/view?usp=sharing)
+
 ## Features  
 - Preconfigured virtual machine for penetration testing. [Preconfigured DVWA,OWASP JUICESHOP,WORDPRESS,PhpMyAdmin & More.,]
 - Simulates real-world vulnerabilities such as SQL Injection, XSS, buffer overflows, and more.  
@@ -29,7 +31,7 @@ Ecsploitableubntu - Based on Ubuntu (Lightweight)
 
 3. *Import into Virtualization Software*  
    - Open your virtualization software (e.g., VirtualBox or VMware).  
-   - Import the VM file (.ova or .vmdk) as a new virtual machine.  
+   - Import the VM [ Single file is supported for both VirtualBox & VMware Workstation ] 
 
 4. *Start the VM*  
    - Launch the virtual machine.  
