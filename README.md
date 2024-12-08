@@ -22,7 +22,7 @@ Ecsploitablewin   - Based on Windows8.1
 ## Installation  
 
 1. *Download the Virtual Machine*  
-   - [Download Link](./path-to-vm-file)  
+   - [Download Link - Mediafire](https://www.mediafire.com/file/9cbpyndnhyzzl0o/Ecsploitablewin.7z/file)  
 
 2. *Extract the VM*  
    Extract the downloaded file using a tool like 7-Zip or WinRAR.  
