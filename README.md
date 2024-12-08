@@ -33,7 +33,7 @@ Ecsploitablewin   - Based on Windows8.1
    - Open your virtualization software (e.g., VirtualBox or VMware).  
    - Import the VM [ Single file is supported for both VirtualBox & VMware Workstation ] 
 
-4. *Start the VM*  *Rightclick > Refresh 2 to 3 times in order to start configuration smoothly*
+4. *Start the VM* || *Rightclick > Refresh 2 to 3 times in order to start configuration smoothly*
    - Launch the virtual machine.  
    - Use the credentials provided below to log in.  
 
