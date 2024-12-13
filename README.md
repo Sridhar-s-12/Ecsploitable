@@ -13,7 +13,9 @@ Ecsploitablelnx   - Based on Kali Linux
 
 [ Disclaimer ](https://drive.google.com/file/d/1DaX_Rm4t4WAPNj-qZgWHLAv30xu4QQDD/view?usp=sharing)   &  [ UsageGuidelines ](https://drive.google.com/file/d/1mSjTNZeezXlH2ESt1y6EFD71HKbcgi8c/view?usp=sharing)
 
-## [Project Documentation](https://drive.google.com/file/d/1BdIXxZTYmg0Q8Bo-_bwDBqi_Al2JyyM4/view?usp=sharing) & [Download Link - Mediafire](https://www.mediafire.com/file/ya1zlckikzlj7rj/Ecsploitablewin.7z/file) 
+## [Project Documentation - Ecsploitablewin](https://drive.google.com/file/d/1HFbmtvxiVEy_jguLAhrCp1_zNBGRaWWz/view?usp=sharing) & [Download Link - Windows](https://www.mediafire.com/file/ya1zlckikzlj7rj/Ecsploitablewin.7z/file) 
+
+## [Project Documentation - Ecsploitablelnx](https://drive.google.com/file/d/1UOqihkCdE8kY3z-bH51gSSa-R6BsYEqG/view?usp=sharing) & [Download Link - Kali-Linux](https://www.mediafire.com/file/uvme8nx6w3689lp/ecsploitablelnx.7z/file) 
 
 ## Features  
 - Preconfigured virtual machine for penetration testing. [Preconfigured DVWA,OWASP JUICESHOP,WORDPRESS,PhpMyAdmin & More.,]
@@ -26,8 +28,9 @@ Ecsploitablelnx   - Based on Kali Linux
 ## Installation  
 
 1. *Click on the Link & Download the Virtual Machine*  
-   - [Download Link - Mediafire](https://www.mediafire.com/file/ya1zlckikzlj7rj/Ecsploitablewin.7z/file)  
-
+   - [Download Link - Ecsploitablewin](https://www.mediafire.com/file/ya1zlckikzlj7rj/Ecsploitablewin.7z/file)
+   - [Download Link - Ecsploitablelnx](https://www.mediafire.com/file/uvme8nx6w3689lp/ecsploitablelnx.7z/file)
+        
 2. *Extract the VM*  
    Extract the downloaded file using a tool like 7-Zip or WinRAR.  
 
