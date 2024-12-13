@@ -51,7 +51,7 @@ Ecsploitablelnx   - Based on Kali Linux
 This project is intended for educational purposes only. Use it in a controlled environment and ensure you comply with all applicable laws.  
 
 ## License  
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.  
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.  Please ensure proper attribution when using or sharing content from this repository.
 
 ## Support  
 
