@@ -8,6 +8,7 @@ Ecsploitable is a deliberately vulnerable virtual machine designed for security 
 A Private Lab Environment for Learning & Practicing EthicalHacking that Match RealWorld Scenerios, In a Safe Environment [using NAT or Host-Only Adaptor]
 
 Ecsploitablewin   - Based on Windows8.1
+
 Ecsploitablelnx   - Based on Kali Linux
 
 [ Disclaimer ](https://drive.google.com/file/d/1DaX_Rm4t4WAPNj-qZgWHLAv30xu4QQDD/view?usp=sharing)   &  [ UsageGuidelines ](https://drive.google.com/file/d/1mSjTNZeezXlH2ESt1y6EFD71HKbcgi8c/view?usp=sharing)
